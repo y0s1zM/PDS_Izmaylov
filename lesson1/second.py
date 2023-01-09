@@ -1,3 +1,7 @@
 import first
-print("ID: ", id(first))
-print("TYPE: ", type(first))
+
+hm = first
+
+print("ID: ", id(hm))
+print("TYPE: ", type(hm))
+
