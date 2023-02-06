@@ -1,2 +1,2 @@
 my_list = ['hi', 3, 5]
-print(my_list[1])
+print(my_list[0])
