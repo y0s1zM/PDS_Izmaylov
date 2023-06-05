@@ -1,6 +1,6 @@
     # 1
 def last_lines(path):
-    with open(path, mode= 'r') as file:
+    with open(path, mode='r') as file:
         rows = 0
         ml = []
         for f in file:
